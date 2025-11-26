@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="Hello, I am leelu.png" width="400">
+<img src="Hello, I am leelu.png" width="200">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Leelnath] and welcome to my GitHub profile! :octocat:
